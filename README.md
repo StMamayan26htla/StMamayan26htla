@@ -2,5 +2,5 @@
 
 <h3>Lakers are the best!</h3>
 <h6><em>Boston Celtics are trash...</em></h6>
-<img width="254" height="400" alt="LeBron_James_(March_2011)" src="https://github.com/user-attachments/assets/d8ddfee2-88fc-42c2-a188-8dd8cd47f5f5" />
+<img width="127" height="200" alt="LeBron_James_(March_2011)" src="https://github.com/user-attachments/assets/d8ddfee2-88fc-42c2-a188-8dd8cd47f5f5" />
 
